@@ -25,6 +25,7 @@ I am a full-stack developer. My strengths include frontend development (which in
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt=".NET Core / .NET Framework" width="26px" src="https://firebasestorage.googleapis.com/v0/b/test-demo-f1ac0.appspot.com/o/images%2F.net.png?alt=media&token=3b4a3f1c-fd1e-4347-b806-8a39d173ae6a" />
+<img align="left" alt="Visual Studio IDE" width="28px" src="https://firebasestorage.googleapis.com/v0/b/test-demo-f1ac0.appspot.com/o/images%2Fvisual-studio-logo.jpeg?alt=media&token=cc1f25fc-ad55-4ac3-ac5d-ea2c8ce2ec8b" />
 
 <br />
 <br />

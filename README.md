@@ -32,7 +32,7 @@ I am a full-stack developer. My strengths include frontend development (which in
 
 ---
 
-[website]: https://mukarram365.web.app
+[website]: https://mukarramjavid.netlify.app
 [twitter]: https://twitter.com/mukarram365
-[linkedin]: https://www.linkedin.com/in/mukarram365
-[instagram]: https://www.instagram.com/_mukarram365
+[linkedin]: https://www.linkedin.com/in/mukarramjavid
+[instagram]: https://www.instagram.com/mukarram.javid
